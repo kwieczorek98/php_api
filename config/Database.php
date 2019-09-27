@@ -24,7 +24,3 @@ class Database {
         }
 
 }
-
-$p = new Database();
-
-$p;
